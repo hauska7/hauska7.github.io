@@ -53,7 +53,7 @@ zerotier-cli join c7c8172af1a7fab6
 
 [Stronka](http://klubdyskusyjny.com)
 
-[Appka]()
+[Appka](https://salty-brook-05799.herokuapp.com)
 
 ## Wieze zaufanie
 
