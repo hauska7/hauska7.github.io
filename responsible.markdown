@@ -4,17 +4,17 @@ title: Odpowiedzialni
 permalink: /responsible/
 ---
 
-# Projekty
+## Projekty
 
-## Gry LAN
+### Gry LAN
 
 Grupa na messengerze https://www.messenger.com/t/3275616532465672
 
-### Najblizsze LAN party
+#### Najblizsze LAN party
 
 Termin: ?
 
-### Ogolnie rzeczy do ogarniecia:
+#### Ogolnie rzeczy do ogarniecia:
 - Ogarnac instrukcje / prosty sposob hostowania Rusted Warfare
 - Ogarnac LAN party z chaty 3
 - Ogranac Achtung die kurve
@@ -29,7 +29,7 @@ Termin: ?
 
 Chetni do ogarniania prosze zglaszac sie na grupie na fejsbuku
 
-#### Rusted Warfare
+##### Rusted Warfare
 
 Potrzebny sprzet: komputer 1.8 Gh, myszka, sluchawki/mikrofon.
 
@@ -41,7 +41,7 @@ Potrzebny sprzet: komputer 1.8 Gh, myszka, sluchawki/mikrofon.
 
 [Jak przekierowac porty zeby byc serwerem](https://portforward.com/rusted-warfare/)
 
-#### Takie tam
+##### Takie tam
 
 Polecana myszka jakby ktos kupowal tak jak ja: Mysz laserowa HP QY778AA
 
@@ -49,19 +49,19 @@ Potencjalne gry: Wormsy, Heroes 3, Kozacy 3, Age of Empires 2, Age of Empires 3,
 
 zerotier-cli join c7c8172af1a7fab6
 
-## Klub dyskusyjny
+### Klub dyskusyjny
 
 [Stronka](http://klubdyskusyjny.com)
 
 [Appka](https://salty-brook-05799.herokuapp.com)
 
-## Wieze zaufanie
+### Wieze zaufanie
 
 [Stronka](https://towers-of-trust.herokuapp.com)
 
-# Info
+## Info
 
-## Ideologia
+### Ideologia
 
 kazdy z nas ufa jednemu z nas
 
@@ -73,4 +73,4 @@ my dzialamy razem
 
 my jestesmy odpowiedzialni
 
-## [Lista osob i wieza zaufania](https://towers-of-trust.herokuapp.com/show_group/3?tab=members)
+### [Lista osob i wieza zaufania](https://towers-of-trust.herokuapp.com/show_group/3?tab=members)
