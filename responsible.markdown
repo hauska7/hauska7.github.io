@@ -63,13 +63,13 @@ zerotier-cli join c7c8172af1a7fab6
 
 ### Ideologia
 
+my dzialamy razem
+
 kazdy z nas ufa jednemu z nas
 
 my wszyscy ufamy jednemu z nas
 
 kazdy z nas ma wlasne zdanie
-
-my dzialamy razem
 
 my jestesmy odpowiedzialni
 
