@@ -20,11 +20,6 @@ my jestesmy odpowiedzialni
 
 # Projekty
 
-## Klub dyskusyjny
-
-[Stronka]](http://klubdyskusyjny.com)
-[Appka]]()
-
 ## Gry LAN
 
 Grupa na messengerze https://www.messenger.com/t/3275616532465672
@@ -67,3 +62,13 @@ Polecana myszka jakby ktos kupowal tak jak ja: Mysz laserowa HP QY778AA
 Potencjalne gry: Wormsy, Heroes 3, Kozacy 3, Age of Empires 2, Age of Empires 3, Achtung die kurve, Call of Duty 4.
 
 zerotier-cli join c7c8172af1a7fab6
+
+## Klub dyskusyjny
+
+[Stronka]](http://klubdyskusyjny.com)
+
+[Appka]]()
+
+## Wieze zaufanie
+
+[Stronka]](https://towers-of-trust.herokuapp.com)
