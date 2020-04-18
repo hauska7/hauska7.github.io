@@ -10,7 +10,7 @@ kazdy z nas ufa jednemu z nas
 
 my ufamy jednemu z nas
 
-jeden z nas decyduje za nas
+kazdy z nas ma wlasne zdanie
 
 my dzialamy razem
 
@@ -67,18 +67,3 @@ Polecana myszka jakby ktos kupowal tak jak ja: Mysz laserowa HP QY778AA
 Potencjalne gry: Wormsy, Heroes 3, Kozacy 3, Age of Empires 2, Age of Empires 3, Achtung die kurve, Call of Duty 4.
 
 zerotier-cli join c7c8172af1a7fab6
-
-
-# English
-
-### Responsible
-
-every one of us trusts in one of us
-
-we trust in one of us
-
-one of us decides for all of us
-
-we act together
-
-we are responsible
