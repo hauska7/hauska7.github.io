@@ -4,20 +4,6 @@ title: Odpowiedzialni
 permalink: /responsible/
 ---
 
-### Ideologia
-
-kazdy z nas ufa jednemu z nas
-
-my wszyscy ufamy jednemu z nas
-
-kazdy z nas ma wlasne zdanie
-
-my dzialamy razem
-
-my jestesmy odpowiedzialni
-
-### [Lista osob i wieza zaufania](https://towers-of-trust.herokuapp.com/show_group/3?tab=members)
-
 # Projekty
 
 ## Gry LAN
@@ -65,10 +51,26 @@ zerotier-cli join c7c8172af1a7fab6
 
 ## Klub dyskusyjny
 
-[Stronka]](http://klubdyskusyjny.com)
+[Stronka](http://klubdyskusyjny.com)
 
-[Appka]]()
+[Appka]()
 
 ## Wieze zaufanie
 
-[Stronka]](https://towers-of-trust.herokuapp.com)
+[Stronka](https://towers-of-trust.herokuapp.com)
+
+# Info
+
+## Ideologia
+
+kazdy z nas ufa jednemu z nas
+
+my wszyscy ufamy jednemu z nas
+
+kazdy z nas ma wlasne zdanie
+
+my dzialamy razem
+
+my jestesmy odpowiedzialni
+
+## [Lista osob i wieza zaufania](https://towers-of-trust.herokuapp.com/show_group/3?tab=members)
