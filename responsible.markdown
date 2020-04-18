@@ -8,7 +8,7 @@ permalink: /responsible/
 
 kazdy z nas ufa jednemu z nas
 
-my ufamy jednemu z nas
+my wszyscy ufamy jednemu z nas
 
 kazdy z nas ma wlasne zdanie
 
