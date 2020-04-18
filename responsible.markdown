@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Responsible
+title: Odpowiedzialni
 permalink: /responsible/
 ---
 
-# Odpowiedzialni
+# Ideologia
 
 kazdy ma wlasne zdanie
 
@@ -20,9 +20,11 @@ my dzialamy razem
 
 my jestesmy odpowiedzialni
 
-[Lista osob i wieza zaufania](https://towers-of-trust.herokuapp.com/show_group/3?tab=members)
+# [Lista osob i wieza zaufania](https://towers-of-trust.herokuapp.com/show_group/3?tab=members)
 
-## Responsible
+# English
+
+### Responsible
 
 everyone judges for themselves
 
